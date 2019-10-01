@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="pg_btn_A" />
+    <item type="id" name="pg_btn_B" />
+    <item type="id" name="pg_btn_C" />
+    <item type="id" name="pg_btn_D" />
+    <item type="id" name="pg_btn_E" />
+    <item type="id" name="pg_btn_F" />
+    <item type="id" name="pg_btn_and" />
+    <item type="id" name="pg_btn_7" />
+    <item type="id" name="pg_btn_8" />
+    <item type="id" name="pg_btn_9" />
+    <item type="id" name="pg_btn_del" />
+    <item type="id" name="pg_btn_ac" />
+    <item type="id" name="pg_btn_or" />
+    <item type="id" name="pg_btn_4" />
+    <item type="id" name="pg_btn_5" />
+    <item type="id" name="pg_btn_6" />
+    <item type="id" name="pg_btn_mul" />
+    <item type="id" name="pg_btn_div" />
+    <item type="id" name="pg_btn_xor" />
+    <item type="id" name="pg_btn_1" />
+    <item type="id" name="pg_btn_2" />
+    <item type="id" name="pg_btn_3" />
+    <item type="id" name="pg_btn_add" />
+    <item type="id" name="pg_btn_sub" />
+    <item type="id" name="pg_btn_not" />
+    <item type="id" name="pg_btn_null0" />
+    <item type="id" name="pg_btn_0" />
+    <item type="id" name="pg_btn_null1" />
+    <item type="id" name="pg_btn_equal" />
+<!--    <item type="id" name="pg_btn_null3" />-->
+</resources>
