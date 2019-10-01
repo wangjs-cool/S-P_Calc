@@ -12,7 +12,7 @@
 本计算器可对运算进行记录，可在历史记录中进行查询与清空。<br/>
 
 
-[点此下载最新版本](https://github.com/wangjs-cool/S-P_Calc/raw/master/S&P%20Calc/apks/S&P%20Calc%20V1.0.apk)
+[点此下载最新版本](https://github.com/wangjs-cool/S-P_Calc/raw/master/S&P_Calc/apks/S&P_Calc-V1.0.apk)
 
 
 本软件为开发者正式开发的第一款APP，利用空闲时间断断续续开发了一两年，虽然大致成品一年前就做出来了，但是一直到现在才完善。<br/>
